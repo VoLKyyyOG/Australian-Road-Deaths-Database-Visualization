@@ -22,3 +22,4 @@ Current findings suggest that:
 - Cars make up the majority (86.1%) of vehicles involved in car accidents, followed by Articulated Trucks at 9.5%
 - Fatal crashes are more likely to occur at 100km/hr or 60km/hr
 - The year 2014 showed the least amount of car crashes whilst 1989 showed the most amount.
+- The highest average number of crashes occur during 3pm-6pm which suggest that peak hour traffic and school zone pickups play a major role in causing accidents. 
