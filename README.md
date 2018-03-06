@@ -23,3 +23,4 @@ Current findings suggest that:
 - Fatal crashes are more likely to occur at 100km/hr or 60km/hr
 - The year 2014 showed the least amount of car crashes whilst 1989 showed the most amount.
 - The highest average number of crashes occur during 3pm-6pm which suggest that peak hour traffic and school zone pickups play a major role in causing accidents. 
+- The age group (16-22) have the most amount of accidents which shows a correlation between age to experience of driving. Many of these fatalities containted alcohol or drug related incidents. 
