@@ -12,15 +12,27 @@ Data Set: https://data.gov.au/dataset/australian-road-deaths-database
 The Australian Road Deaths Database provides basic details of road transport crash fatalities in Australia as reported by the police each month to the State and Territory road safety authorities.
 
 # Aim of this Project
-To provide an in depth data analysis of the number of crashes and correlations with location, velocity and time.
+To provide an in depth data analysis of the number of crashes and correlations with location, speed and time of the day. A side goal is to gain more experience with the use of python's pandas and matplotlib libraries. 
 
-Current findings suggest that:
-- The number of fatal crashes have decreased over time (1989 - 2017)
-- New South Wales, Victoria and Queensland share the largest number of fatal crashes
-- On average, more than 1 person(s) die as a result of a fatal crash (Odds are at 47.3:52.7)
-- December sees the most number of accidents (9%) whilst February see the least (7.5%)
-- Cars make up the majority (86.1%) of vehicles involved in car accidents, followed by Articulated Trucks at 9.5%
-- Fatal crashes are more likely to occur at 100km/hr or 60km/hr
-- The year 2014 showed the least amount of car crashes whilst 1989 showed the most amount.
-- The highest average number of crashes occur during 3pm-6pm which suggest that peak hour traffic and school zone pickups play a major role in causing accidents. 
-- The age group (16-22) have the most amount of accidents which shows a correlation between age to experience of driving. Many of these fatalities containted alcohol or drug related incidents. 
+# Basic Visualisation of the Data
+![alt text](https://i.imgur.com/3gykldF.png)
+![alt text](https://i.imgur.com/qHOpnDd.png)
+
+An overall trend that the number of fatal crashes has decreased overtime for every state / territory in Australia
+
+![alt text](https://i.imgur.com/pQEovrC.png)
+
+Suggests that New South Wales, Victoria and Queensland share the majority of all fatal crashes in Australia since 1989. This can be assumed that a larger population will result in more fatal crashes (https://en.wikipedia.org/wiki/Ranked_list_of_states_and_territories_of_Australia)
+
+![alt text](https://i.imgur.com/bKh97nZ.png)
+
+Fatalities occur most during the hours of afternoon peak time. Data suggests that many fatalities are caused when primary / secondary school finishes (time period between 3pm - 4pm) and parents come to pick their children up.
+
+![alt text](https://i.imgur.com/Am3HixQ.png)
+
+Graph suggests that the most amount of fatal crashes occur at the speeds of 100km/hr (freeways and highways) and at 60km/hr (roads and streets). https://www.vicroads.vic.gov.au/safety-and-road-rules/driver-safety/speeding/school-speed-zones suggests that the original speed of 80km/hr (now 60km/hr normal, 40km/hr during school hours) shows us that the school hour pick-up time is when most of the fatal crashes occur. 
+
+![alt text](https://i.imgur.com/PerOMz6.png)
+
+Majority of fatal crashes occur with cars (86.1%) and with construction vehicles (articulated trucks) at 9.5%
+
